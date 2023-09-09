@@ -1078,7 +1078,7 @@ ul.sub-menu>li a {
 
 ul.sub-menu>li:hover a,
 ul.sub-menu>li.active a {
-    color: #fdc800;
+    color: #7ce37c;
 }
 
 /*-- Mobile Menu --*/
@@ -1226,7 +1226,7 @@ a.meanmenu-reveal i {
 }
 
 .search-toggle:before {
-    background-color: #fdc800;
+    background-color: #7ce37c;
     bottom: 0;
     content: "";
     height: 3px;
@@ -2290,7 +2290,7 @@ a.meanmenu-reveal i {
 
 .contact-form input[type="submit"],
 .contact-form .btn-submit {
-    background-color: #002147;
+    background-color: #2bbd2b;
     border: none;
     box-shadow: none;
     color: #fff;
@@ -2307,7 +2307,7 @@ a.meanmenu-reveal i {
 .contact-form .btn-submit:hover,
 .contact-form .btn-submit:focus,
 .contact-form .btn-submit:active {
-    background-color: #fdc800;
+    background-color: green;
     color: #fff;
 }
 
